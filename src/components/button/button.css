@@ -1,0 +1,16 @@
+.increment-button {
+  padding: 10px 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+button {
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+}
+.main-button {
+  padding: 10px 30px;
+}
+.buttons-wrapper {
+  margin-top: 40px;
+}
